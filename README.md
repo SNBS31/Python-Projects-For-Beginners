@@ -14,8 +14,8 @@ Below is the project list of the projects I'll be explaining, alongside their in
 ![Image](https://github.com/user-attachments/assets/8f3acccf-4484-4cfb-8acc-e71be7f23d25)
 
 # Project 1: Dice Rolling Game
-I created a program that mimics the rolling of two dice.  The program should, upon execution, generate two random integers, each within the range of 1 to 6 (inclusive), to represent the outcome of each die roll.  These results should then be displayed to the user.  After displaying the results, the program should prompt the user to determine if they wish to roll the dice again.
-Below was how my own results looked like
+I created a program that mimics the rolling of two dice.  The program should, upon execution, generate two random integers, each within the range of 1 to 6 (inclusive), to represent the outcome of each die roll.  These results should then be displayed to the user.  After displaying the results, the program should prompt the user to determine if they wish to roll the dice again. Below was how my own results looked like:
+
 ![Image](https://github.com/user-attachments/assets/2179c447-8079-4151-9005-91e1c88155b6)
 
 # Project 2: Number Guessing Game

@@ -59,20 +59,24 @@ I develop here a program that constructs a multiple-choice quiz.  The program al
 We'll craft here now a Tic-Tac-Toe game program.  Two players will alternate placing their marks—X's and O's—on a 3x3 grid.  The goal is to get three of your marks in a row (horizontally, vertically, or diagonally).
 
 After each turn, the game board will be displayed, using distinct colors for X's and O's to make it easy to follow.  The program will check for a winner after every move.  The game concludes when one player achieves a winning pattern, or when all the spaces on the board are filled, resulting in a draw/tie.
+
 ![Image](https://github.com/user-attachments/assets/5f3541af-96f6-45db-ad6d-1403ac61b383)
 ![Image](https://github.com/user-attachments/assets/20deb4ae-cec2-4f4c-a71d-a56ed3d89263)
 
 # Project 8: To-Do-List
 I developed a basic To-Do List application that enables users to input tasks, display the existing task list, and delete tasks upon completion.
+
 ![Image](https://github.com/user-attachments/assets/28a1ae4c-6c00-435a-939d-3300c96c38ef)
 ![Image](https://github.com/user-attachments/assets/d29e42c7-24dc-4805-afa6-fb0d30402d1a)
 
 # Project 9: Simple Text Editor
 Developed a basic text editor application. This application enables users to either load an existing text file or generate a new one. Users can then modify the text content.  To persist these changes, users __must__ input the command "SAVE".
+
 ![Image](https://github.com/user-attachments/assets/d848ea58-efb9-4a66-85cb-c3238b9bd87d)
 
 # Project 10: 
 Pig Dice is a two-player game focused on strategy and a bit of luck.  The goal is to be the first player to reach 100 points.  Each player takes turns rolling a single die.  Each roll adds the die's value to the player's current turn score.  However, rolling a 1 ends the player's turn, and they lose all points accumulated during that turn.  The player must then pass the die to their opponent.  A key element of the game is deciding when to "hold" – banking the current turn score and ending the turn – versus continuing to roll and risk losing it all.
+
 ![Image](https://github.com/user-attachments/assets/240dfeda-e21f-405e-bfdd-4cb5f442c7bd)
 ![Image](https://github.com/user-attachments/assets/ac3160e0-c558-4d40-a0cc-529495fe5d07)
 ![Image](https://github.com/user-attachments/assets/4db7679d-d28e-4ccd-a393-c35a278f4a6a)
@@ -81,29 +85,35 @@ Pig Dice is a two-player game focused on strategy and a bit of luck.  The goal i
 # Project 11: Cow and Bulls Game
 This project involves creating a number-guessing game called "Cows and Bulls."  The computer will generate a secret 4-digit number, and the player must deduce it.  Feedback will be given after each guess in the form of "cows" and "bulls."  A "bull" indicates a correctly guessed digit in the correct position, while a "cow" signifies a correct digit in the wrong position.  This game challenges the player's logical reasoning and problem-solving abilities, to persevere towards guessing the correct number.
 Below was how I ended up guessing mine
+
 ![Image](https://github.com/user-attachments/assets/b6d4947b-3a34-4016-bf12-f5632f9b23d3)
 
 # Project 12: Password Strength Checker
 I simply wrote a program here to evaluate the strength of a password based on criteria like length, the inclusion of uppercase letters, numbers, and special characters. The program will then categorize the password as Very Weak, Weak, Medium, Strong, or Very Strong.
 Check what the program said about mine below
+
 ![Image](https://github.com/user-attachments/assets/02491133-960a-4061-866b-a446a1e5a97d)
 
 # Project 13: Password Generator
 I developed a program that creates random passwords.  The user can customize the password generation by specifying parameters like the desired length and whether it should contain uppercase letters, numbers, and special symbols.
+
 ![Image](https://github.com/user-attachments/assets/7e311223-e747-47ae-b391-2f0237330ddf)
 
 # Project 14: Word Guessing Game
 In this Word Guessing Game project, players are trying to figure out a hidden word the computer randomly chooses. The computer chooses this word from a list stored in a text file. Players have six tries to guess the word, and each wrong guess reduces their remaining attempts.  Correctly guessed letters are shown in their places within the word, while incorrect guesses mean the player has to try again.
 I personally failed after exhausting my six attempts.
+
 ![Image](https://github.com/user-attachments/assets/28226099-de45-43b5-b569-b4916f2eb9e1)
 
 # Project 15: Slot Machine Game
 This project simulates a slot machine game, offering a simple and engaging experience.  Players begin with a set balance and can place bets before each spin. The reels then spin, revealing a set of symbols.  Winning combinations result in payouts based on the player's wager.  Specifically, three matching symbols pay out 10 times the bet, while two matching symbols pay out 2 times the bet.  If no symbols match, the player loses their bet. The game continues until the player's balance reaches zero or they choose to stop playing and keep their winnings.
 Below is how the game looks like
+
 ![Image](https://github.com/user-attachments/assets/e1b60490-ec33-43b6-aac2-9bf589ae0c6a)
 
 # Project 16: ATM(Automated Teller Machine)
 This ATM simulation project I did provided a hands-on learning experience in developing a simplified automated teller machine system. I built a program that enables users to perform common ATM functions such as checking account balances, depositing funds, and withdrawing cash.  This project served me on a platter an introduction to fundamental Object-Oriented Programming (OOP) principles, demonstrating how to organize program logic within a class structure and manage user input(UI logic) through a separate controller class.
+
 ![Image](https://github.com/user-attachments/assets/03b411cb-80da-4d53-b496-58f7c5ccccc8)
 
 

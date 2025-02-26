@@ -74,7 +74,7 @@ Developed a basic text editor application. This application enables users to eit
 
 ![Image](https://github.com/user-attachments/assets/d848ea58-efb9-4a66-85cb-c3238b9bd87d)
 
-# Project 10: 
+# Project 10: Pig Dice Game
 Pig Dice is a two-player game focused on strategy and a bit of luck.  The goal is to be the first player to reach 100 points.  Each player takes turns rolling a single die.  Each roll adds the die's value to the player's current turn score.  However, rolling a 1 ends the player's turn, and they lose all points accumulated during that turn.  The player must then pass the die to their opponent.  A key element of the game is deciding when to "hold" – banking the current turn score and ending the turn – versus continuing to roll and risk losing it all.
 
 ![Image](https://github.com/user-attachments/assets/240dfeda-e21f-405e-bfdd-4cb5f442c7bd)

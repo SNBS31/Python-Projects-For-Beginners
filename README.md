@@ -20,6 +20,7 @@ I created a program that mimics the rolling of two dice.  The program should, up
 
 # Project 2: Number Guessing Game
 I designed a number guessing game.  The computer randomly chooses a secret integer between 1 and 100 (inclusive). The player should then be prompted to input their guess.  The program should provide feedback to the player, indicating whether their guess is too high or too low, until the player correctly guesses the computer's secret number.
+
 ![Image](https://github.com/user-attachments/assets/2b928875-421f-4bd3-8550-4b4c6c03b924)
 
 # Project 3: Rock, Paper, Scissors Game
